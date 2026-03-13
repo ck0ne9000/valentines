@@ -36,7 +36,7 @@ const moveNoButton = () => {
     <div class="postcard">
       <div class="bear-container">
         <p v-if="!valentineAccepted" class="message">
-          Will you be my Valentine?
+          Will you be my Valentine?!
         </p>
         <div v-else>
           <img
